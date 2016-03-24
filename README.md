@@ -1,7 +1,7 @@
 # Countdown
 倒计时的一个Demo
 
-```
+```oc
 #import <Foundation/Foundation.h>
 
 @class EDCountdown;
